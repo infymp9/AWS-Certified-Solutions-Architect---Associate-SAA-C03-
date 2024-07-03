@@ -1,0 +1,44 @@
+The Building Blocks of AWS: Availability Zones and Regions:
+
+Aws Global Infrastructure
+Availability Zone
+Data Center
+Region
+Edge Location
+The AWS Management Console
+
+
+
+Aws Global Infrastructure: 
+31 Regions, 99 Availability Zone
+
+
+what is a region?
+A region is simply a location.
+It's a physical location.
+
+
+what's an availability zone?
+
+Availability zone as a data center
+A data center is simply a building that's filled with servers.
+
+Multiple data center:
+An availability zone may be several different data centers,
+but because they're close together,
+they'll be within a certain mile radius between each one.
+They'll be counted as one availability zone.
+
+what's a region?
+
+region is just a geographical area,
+each region consists of two or more availability zones.
+
+
+what are edge locations?
+Well, an edge location are basically just endpoints for AWS
+that are used for caching content.
+And typically this consists of things like CloudFront,
+currently there are over 215 edge locations
+
+
